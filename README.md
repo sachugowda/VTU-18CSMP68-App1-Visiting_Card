@@ -5,4 +5,4 @@ Information like the name of the employee, job title, phone number, address, ema
 website address isto be displayed. Insert a horizontal line between the job title and the phone
 number.</p>
 <hr>
-Any Quries Kindly Write to sachindn@vvce.ac.in
+Any Quries Kindly Write to <b>sachindn@vvce.ac.in</b>
