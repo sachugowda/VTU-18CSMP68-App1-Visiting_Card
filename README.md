@@ -4,3 +4,5 @@ top right corner. The company name should be displayed in Capital letters, align
 Information like the name of the employee, job title, phone number, address, email, fax and the
 website address isto be displayed. Insert a horizontal line between the job title and the phone
 number.</p>
+<hr>
+Any Quries Kindly Write to sachindn@vvce.ac.in
